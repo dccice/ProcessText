@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="pro_color" format="color" />
+    <attr name="rect_color" format="color" />
+    <attr name="rect_width" format="dimension" />
+    <attr name="pro_width" format="dimension" />
+    <attr name="pro_height" format="dimension" />
+
+    <declare-styleable name="self_pro">
+        <attr name="pro_color" />
+        <attr name="rect_color" />
+        <attr name="rect_width" />
+        <attr name="pro_width" />
+        <attr name="pro_height" />
+    </declare-styleable>
+
+</resources>
