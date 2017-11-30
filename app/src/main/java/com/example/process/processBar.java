@@ -17,7 +17,7 @@ import android.util.Log;
 import android.view.View;
 
 /**
- * Created by 叔叔左左 on 2017/5/23.
+ * Created by ice on 2017/5/23.
  */
 
 public class processBar extends View {
