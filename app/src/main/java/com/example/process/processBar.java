@@ -22,7 +22,7 @@ import android.view.View;
 
 public class processBar extends View {
     private Paint mPaint = null;
-    private int mProWidth; //进度条的宽度
+    private int mProWidth; //进度条的宽度   
     private int mRectWidth; //用来显示文字矩形的宽度
     private int mProHeight; //进度条的高度
     private int mProColor; //进度条的颜色
